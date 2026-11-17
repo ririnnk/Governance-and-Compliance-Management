@@ -1,3 +1,3 @@
-# Governance and Compliance Management
+## Governance and Compliance Management
 AI for Project Management Series
 # Microsoft
